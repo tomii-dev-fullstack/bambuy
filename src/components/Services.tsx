@@ -9,9 +9,9 @@ const services = [
     alt: "Service description",
   },
   {
-    title: "Desarrollo web/app",
+    title: "Desarrollo de software",
     description:
-      "Desarrollo de ecommerce, landing pages, apps como también automatizaciones que requiera y potencie el negocio.",
+      "Desarrollo de tiendas online y paginas web como también automatizaciones que requiera y potencie el negocio.",
     image: "/images/services/ecommerce.svg",
     alt: "Service description",
   },
@@ -25,7 +25,7 @@ const services = [
   {
     title: "Atención al cliente",
     description:
-      "Respuestas a mensajes a través de redes sociales con 48 hs de retraso como máximo (siempre y cuando cuente con el conocimiento para dar respuesta).",
+      "Respuestas a mensajes a través de redes sociales con 48 hs de retraso como máximo (siempre y cuando se cuente con el conocimiento para dar respuesta).",
     image: "/images/services/support.svg",
     alt: "Service description",
   },
@@ -41,7 +41,7 @@ export function Services() {
   return (
     <div className="bg-gray-50 dark:bg-neutral-900" id="services">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 text-center">
-        <h2 className="text-4xl font-bold"><span className="text-orange-300">Crece </span>sin límites</h2>
+        <h2 className="text-4xl font-bold"><span className="text-orange-300">Tu éxito </span>es nuestra misión</h2>
 
         <p className="pt-6 pb-6 text-base max-w-2xl text-center m-auto dark:text-neutral-400">
          
